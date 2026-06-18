@@ -1,0 +1,3 @@
+{ "name": "Cartographie Cardif",
+"sources_directories": "./Cardif/1.Source/",
+"dbfile": "./Cardif/cardif.duckdb" }

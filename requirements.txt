@@ -1,0 +1,5 @@
+colorama==0.4.6
+duckdb==1.5.4
+pyarrow==24.0.0
+sv_ttk==2.6.1
+tqdm==4.68.3

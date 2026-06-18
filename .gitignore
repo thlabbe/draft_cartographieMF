@@ -1,0 +1,6 @@
+Cardif
+.venv/
+.vscode/
+**/*.pyc
+__pycache__
+cobol_copybook_errors.log
